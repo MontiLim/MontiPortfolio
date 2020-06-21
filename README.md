@@ -3,7 +3,7 @@
 My name is Montipa Lim, but I prefer people to call me "Monti." I am a recent Cybersecurity graduate from GWU. I have been interested in Cybersecurity sine high school. I has become more passionate about Secure DevOps, Incident response and Cyber Forensic which why I decided to persue a bachelor in this field.
 
 ### Why Cybersecurity?
-As our society rapidly moving forward to Internet of Things (IoT), I have become more curious and interested of how this would effect us as a Cybersecurity profession and as a society. My question is how secure are we and maybe felt like my privacy has been a bit threaten. We cannot stop  technology from growing, but as a cybersecurity graduate,we need to be aware of how we stay secure with the new way of life.
+As our society rapidly moving forward to Internet of Things (IoT), I have become more curious and interested of how this would effect us as a Cybersecurity profession and as a society. My question is how secure are we and maybe felt like my privacy has been a bit threaten. My passion about network security has grow as I learn more about IoT in cybersecurity perspective. Obviously, we cannot stop  technology from evolving, but as a cybersecurity graduate,we need to be aware and know how we can stay secure with these technologies that shaping our new way of life.
 
 You can use the [editor on GitHub](https://github.com/MontiLim/MontiPortfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
