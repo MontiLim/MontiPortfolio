@@ -12,7 +12,7 @@ As our society rapidly moving forward to Internet of Things (IoT), I have become
 
 I am always open for new opportunities to grow.
 
-You can contact me by the followings:
+Contact me: 
 - Email: mlim94@gmail.com
 - LinkedIn: Linkedin.com/in/monti-lim-026b92171/
 
