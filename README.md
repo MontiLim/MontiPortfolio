@@ -8,4 +8,9 @@ My name is Montipa Lim, but I prefer people to call me "Monti." I am a recent Cy
 ### Why Cybersecurity?
 As our society rapidly moving forward to Internet of Things (IoT), I have become more curious and interested of how this would effect us as a Cybersecurity profession and as a society. My question is how secure are we and maybe felt like my privacy has been a bit threaten. My passion about network security has grow as I learn more about IoT in cybersecurity perspective. Obviously, we cannot stop  technology from evolving, but as a cybersecurity graduate,we need to be aware and know how we can stay secure with these technologies that shaping our new way of life.
 
+### Contact Info: 
+ Email: mlim94@gmail.com
+ LinkedIn: Linkedin.com/in/monti-lim-026b92171/
+
+
 ## to be continued . . .
