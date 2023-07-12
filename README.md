@@ -3,16 +3,19 @@
 ![avatar](https://user-images.githubusercontent.com/67212651/85216287-a2e69f00-b350-11ea-95c4-21d11e5474b9.png)
 
 ### About Me
-My name is Monti Lim. I am a passionate and talented support engineer with cybersecurity background seeking new opportunities and challenges. I am currently working as sn Azure Storage Support Engineer
+Welcome to my GitHub profile! I'm Monti Lim, an Azure Storage Support Engineer with a strong cybersecurity background. Passionate about technology, particularly in the realm of cloud computing, my ultimate career goal is to continue working in the cloud computing field with a strong emphasis on security.
+
+### Technical Side of things
+With proficiency in Linux/Unix, Windows, Azure Network, Azure HPC Storage, Azure CLI, networking concepts, and various tools such as Wireshark, Mac OS, Virtual Box, and more, I bring a comprehensive skill set to the table. My expertise also extends to Azure AD, Active Directory, Citrix Director, project management, and incident response planning.
 
 ### Education:
-I am a Cybersecurity graduate from GWU. I have been interested in Cybersecurity since high school. I am a Cyber-Security enthusiast, I am passionate about Cloud security, Secure DevOps, Incident response and Cyber Forensic which is why I pursued a degree in this field.
+I hold a B.A. in Cybersecurity from The George Washington University and an A.S. in Cybersecurity from Northern Virginia Community College. I have a passion for continuous learning and actively participated in the Colonials Cyber Club and the National Cyber League (NCL).
 
 ### Hobbies and Interests
 When I am not working or studying, I always find myself planning for the next trip, short trip or long trip is depends on the situation. I have been to a a few countries last year and it has been an eye opening experience. I just love the feeling of being in new places, absorbing new cultures and learning new things. Other than I often find myself cooking, gaming, eating out with friends, finding little projects to do over the weekends.
 
 ### Why Cybersecurity?
-As our society rapidly moving forward to Internet of Things (IoT), I have become more curious and interested of how this would effect us as a Cybersecurity profession and as a society. My question is how secure are we and maybe felt like my privacy has been a bit threaten. My passion about network security has grow as I learn more about IoT in cybersecurity perspective. Obviously, we cannot stop  technology from evolving, but as a cybersecurity graduate,we need to be aware and know how we can stay secure with these technologies that shaping our new way of life.
+As our society rapidly embraces IoT, I have become increasingly intrigued by its potential effects and how it may challenge us as cybersecurity professionals. This curiosity stems from my concern for security and privacy in this evolving landscape. As I delve into the cybersecurity aspects of Cloud Computing, IoT, AI, my passion for cloud security and data privacy continues to thrive. While we cannot halt technological progress, it is imperative that cybersecurity enthusiasts like me remain vigilant and well-informed about staying secure amidst these transformative technologies that are shaping our new way of life.
 
 I am always open for new opportunities to grow.
 
